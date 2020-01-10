@@ -3,7 +3,6 @@
 namespace Tests\Feature;
 
 use App\Models\Category;
-use App\Models\Post;
 use App\Repositories\CategoryRepository;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithFaker;
